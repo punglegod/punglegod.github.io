@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/post/0.html"/>
+      <url>/post/0.html</url>
+      
+        <content type="html"><![CDATA[<div style="width: 90%;margin: 0 auto">    <canvas id="chart8277" style="height: 300px"></canvas></div><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script><script type="text/javascript">    var ctx = document.getElementById('chart8277').getContext('2d');    var options =     {    type: 'line',    data: {    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],    datasets: [{        label: 'My First dataset',        backgroundColor: 'rgb(255, 99, 132)',        borderColor: 'rgb(255, 99, 132)',        data: [0, 10, 5, 2, 20, 30, 45]        }]    },    options: {        responsive: true,        title: {        display: true,        text: 'Chart.js Line Chart'        }    }};    new Chart(ctx, options);</script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/post/4a17b156.html"/>
       <url>/post/4a17b156.html</url>
@@ -31,6 +44,12 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> 工业工程 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -40,9 +59,21 @@
       <link href="/post/6a18d851.html"/>
       <url>/post/6a18d851.html</url>
       
-        <content type="html"><![CDATA[<h1 id="从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。"><a href="#从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。" class="headerlink" title="从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。"></a>从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。</h1><p>现代IE除七大手法与八大浪费外，海英掌握的一个只是模块为工厂Layout布局。</p><h2 id="1-Layout布局可细分为6个方面："><a href="#1-Layout布局可细分为6个方面：" class="headerlink" title="1.Layout布局可细分为6个方面："></a>1.Layout布局可细分为6个方面：</h2><p><strong>（1）IE、精益要基于系统观；</strong></p><p><strong>（2）从岗位需要看必备知识；</strong></p><p><strong>（3）布局规划涉及的主要内容；</strong></p><p><strong>（4）线体布局-操作柔性解析；</strong></p><p><strong>（5）线体布局-异常反馈解析；</strong></p><p><strong>（6）线体布局-面积、效率、物流等内容</strong></p><p>企业招聘IE、精益的岗位职责中，布局规划Layout的知识点非常重要，大多数企业对IE、精益人都有这点的知识需求。</p><p>这点从各招聘网可以看出来，以下为部分招聘网例图</p><p><img src="https://gitee.com/pungle/typora-drawing-bed/raw/main/img/2023/02/2023-02-17_234235.png" alt=""></p><p><img src="https://gitee.com/pungle/typora-drawing-bed/raw/main/img/2023/02/2023-02-17_234646.png" alt=""></p><h2 id="Layout布局规划涉及的主要内容"><a href="#Layout布局规划涉及的主要内容" class="headerlink" title="Layout布局规划涉及的主要内容"></a>Layout布局规划涉及的主要内容</h2><p>我们按照宏观-局部-微观的思路来进行分解IE学科中涉及到的布局规划：</p><h3 id="1-宏观工厂布局"><a href="#1-宏观工厂布局" class="headerlink" title="1.宏观工厂布局"></a><strong>1.宏观工厂布局</strong></h3><p>SLP、工艺原则、产品原则、定位、成组；</p><h3 id="2-车间线体布局"><a href="#2-车间线体布局" class="headerlink" title="2.车间线体布局"></a><strong>2.车间线体布局</strong></h3><p>线图、直线型、U型、花瓣型、单元化；</p><h3 id="3-微观工位布局"><a href="#3-微观工位布局" class="headerlink" title="3.微观工位布局"></a><strong>3.微观工位布局</strong></h3><p>人因工程、精益工位、定置图、目视化。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。"><a href="#从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。" class="headerlink" title="从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。"></a>从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。</h1><p>现代IE除七大手法与八大浪费外，还应掌握的一个知识模块为工厂Layout布局。</p><h2 id="1-Layout布局可细分为6个方面："><a href="#1-Layout布局可细分为6个方面：" class="headerlink" title="1.Layout布局可细分为6个方面："></a>1.Layout布局可细分为6个方面：</h2><p><strong>（1）IE、精益要基于系统观；</strong></p><p><strong>（2）从岗位需要看必备知识；</strong></p><p><strong>（3）布局规划涉及的主要内容；</strong></p><p><strong>（4）线体布局-操作柔性解析；</strong></p><p><strong>（5）线体布局-异常反馈解析；</strong></p><p><strong>（6）线体布局-面积、效率、物流等内容</strong></p><p>企业招聘IE、精益的岗位职责中，布局规划Layout的知识点非常重要，大多数企业对IE、精益人都有这点的知识需求。</p><p>这点从各招聘网可以看出来，以下为部分招聘网例图</p><p><img src="https://gitee.com/pungle/typora-drawing-bed/raw/main/img/2023/02/2023-02-17_234235.png" alt=""></p><p><img src="https://gitee.com/pungle/typora-drawing-bed/raw/main/img/2023/02/2023-02-17_234646.png" alt=""></p><h2 id="Layout布局规划涉及的主要内容"><a href="#Layout布局规划涉及的主要内容" class="headerlink" title="Layout布局规划涉及的主要内容"></a>Layout布局规划涉及的主要内容</h2><p>我们按照宏观-局部-微观的思路来进行分解IE学科中涉及到的布局规划：</p><h3 id="1-宏观工厂布局"><a href="#1-宏观工厂布局" class="headerlink" title="1.宏观工厂布局"></a><strong>1.宏观工厂布局</strong></h3><p>SLP、工艺原则、产品原则、定位、成组；</p><h3 id="2-车间线体布局"><a href="#2-车间线体布局" class="headerlink" title="2.车间线体布局"></a><strong>2.车间线体布局</strong></h3><p>线图、直线型、U型、花瓣型、单元化；</p><h3 id="3-微观工位布局"><a href="#3-微观工位布局" class="headerlink" title="3.微观工位布局"></a><strong>3.微观工位布局</strong></h3><p>人因工程、精益工位、定置图、目视化。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 工业工程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工业工程 </tag>
+            
+        </tags>
       
     </entry>
     

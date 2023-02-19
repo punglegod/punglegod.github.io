@@ -1,9 +1,136 @@
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'YSHST';
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(/font/优设好身体.woff2);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+
+/* 夜间模式菜单栏发光字 */
+[data-theme="dark"] #nav .site-page,
+[data-theme="dark"] #nav .menus_items .menus_item .menus_item_child li a {
+  text-shadow: 0 0 2px var(--theme-color) !important;
+}
+
+/* 一级菜单居中 */
+#nav .menus_items {
+  position: absolute !important;
+  width: fit-content !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+/* 子菜单横向展示 */
+#nav .menus_items .menus_item:hover .menus_item_child {
+  display: flex !important;
+}
+/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -125px;
+}
+
+
+
+svg.icon {
+   width: 1.28em;
+   height: 1.28em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+
+
+/* 手机端适配 */
+[data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
+  text-shadow: 0 0 2px var(--theme-color) !important;
+}
+
+/* 闪烁变动颜色连续渐变 */
+#site-name,
+#site-title,
+#site-subtitle,
+#post-info,
+.author-info__name,
+.author-info__description {
+  transition: text-shadow 1s linear !important;
+}
+
+/* 侧边栏个人信息卡片动态渐变色 */
+#aside-content > .card-widget.card-info {
+  background: linear-gradient(
+    -45deg,
+    #e8d8b9,
+    #eccec5,
+    #a3e9eb,
+    #bdbdf0,
+    #eec1ea
+  );
+  box-shadow: 0 0 5px rgb(66, 68, 68);
+  position: relative;
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 10s ease infinite;
+  -moz-animation: Gradient 10s ease infinite;
+  animation: Gradient 10s ease infinite !important;
+}
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* 黑夜模式适配 */
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background: #191919ee;
+}
+
+/* 个人信息Follow me按钮 */
+#aside-content > .card-widget.card-info > #card-info-btn {
+  background-color: #3eb8be;
+  border-radius: 8px;
+}
+
+
+
 :root {
   --trans-light: rgba(255, 255, 255, 0.70);
   --trans-dark: rgba(25, 25, 25, 0.70);
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: blur(5px) saturate(150%);
 }
+
 
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
@@ -77,59 +204,6 @@ div#archive {
   color: #ffffff;
 }
 
-/* 阿里图标 */
-.iconfont {
-font-family: "iconfont" !important;
-font-size: 3em;
-/* 可以定义图标大小 */
-font-style: normal;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-}
-/* 若已经在项目设置中勾选了彩色选项，则无需再定义图标颜色*/
-.icon-qq:before {
-  color: #85c3de;
-}
-.icon-zhifeiji:before {
-  color: #ffaf6e;
-}
-.icon-email-fill:before {
-  color: #f7c768;
-}
-.icon-rss:before {
-  color: #ffbdd8;
-}
-.icon-github:before {
-  color: #ff8787;
-}
-.icon-bilibili:before {
-  color: #c3d686;
-}
-.icon-wenju:before {
-  color: #ffaf6e;
-}
-.icon-goat:before {
-  color: #f7c768;
-}
-.icon-monkey:before {
-  color: #c3d686;
-}
-.icon-rooster:before {
-  color: #ff8787;
-}
-.icon-dog:before {
-  color: #85c3de;
-}
-.icon-boar:before {
-  color: #ffbdd8;
-}
-<i class="iconfont icon-qq"></i>
-<i class="iconfont icon-email-fill"></i>
-<i class="iconfont icon-zhifeiji"></i>
-<i class="iconfont icon-rss"></i>
-<i class="iconfont icon-bilibili"></i>
-<i class="iconfont icon-wenju"></i>
-<i class="iconfont icon-github"></i>
 
 /*哔哩哔哩视频适配*/
 .aspect-ratio {
@@ -291,11 +365,87 @@ h6::before {
     transform: translate(-50%, -48px);
 }
 
-@import“//at.alicdn.com/t/c/font_3880264_e9japg4103p.css”;
-svg.icon {
-   width: 1em; height: 1em;
-   /* width和height定义图标的默认宽度和高度*/
-   vertical-align: -0.15em;
-   fill: currentColor;
-   overflow: hidden;
+
+/* 全局宽度 */
+.layout {
+  max-width: 1400px;
 }
+
+/* 侧边卡片栏宽度 */
+.aside-content {
+  max-width: 318px;
+  min-width: 300px;
+}
+
+/* 平板尺寸自适应(不启用侧边栏宽度限制) */
+@media screen and (max-width: 900px) {
+  .aside-content {
+    max-width: none !important;
+    padding: 0 5px 0 5px;
+  }
+}
+
+/* 除了首页以外其他页面隐藏卡片，并采用宽屏显示 */
+#archive,
+#page,
+#category,
+#tag {
+  width: 100%;
+}
+.page:not(.page.home) .aside-content {
+  display: none;
+}
+
+/* 页脚与头图透明 */
+#footer {
+  background: transparent !important;
+}
+#page-header {
+  background: transparent !important;
+}
+
+/* 白天模式遮罩透明 */
+#footer::before {
+  background: transparent !important;
+}
+#page-header::before {
+  background: transparent !important;
+}
+
+/* 夜间模式遮罩透明 */
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+
+
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #3ecdf1;
+  color: #f2f2f2;
+}
+
+# hexo-butterfly-swiper
+# see https://akilar.top/posts/8e1264d1/
+swiper:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  timemode: date #date/updated
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 0
+  default_descr: 再怎么看我也不知道怎么描述它的啦！
+  swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
+  swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖
+  custom_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css # 适配主题样式补丁
+  custom_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper_init.js # swiper初始化方法
+
