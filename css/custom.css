@@ -1,1 +1,639 @@
-@font-face{font-family:YSHST;src:url(/font/优设好身体.woff2);font-weight:400;font-style:normal;font-display:block}[data-theme=dark] #nav .menus_items .menus_item .menus_item_child li a,[data-theme=dark] #nav .site-page{text-shadow:0 0 2px var(--theme-color)!important}#nav .menus_items{position:absolute!important;width:fit-content!important;left:50%!important;transform:translateX(-50%)!important}#nav .menus_items .menus_item:hover .menus_item_child{display:flex!important}.menus_items .menus_item:nth-child(2) .menus_item_child{left:-125px}.aspect-ratio{position:relative;width:90%;height:auto;padding-bottom:75%;margin:3% auto;text-align:center}.aspect-ratio iframe{position:absolute;width:100%;height:86%;left:0;top:0}svg.social_icon{width:1.28em;height:1.28em;vertical-align:-.15em;fill:currentColor;overflow:hidden}svg.menu_icon{width:1.28em;height:1.28em;vertical-align:-.15em;fill:currentColor;overflow:hidden}[data-theme=dark] #sidebar #sidebar-menus .menus_items .site-page{text-shadow:0 0 2px var(--theme-color)!important}#post-info,#site-name,#site-subtitle,#site-title,.author-info__description,.author-info__name{transition:text-shadow 1s linear!important}[data-theme=light] #aside-content>.card-widget.card-info{background-image:url(https://sourcebucket.s3.ladydaily.com/img/snowflower.webp);background-repeat:no-repeat;background-attachment:inherit;background-size:100%}[data-theme=dark] #aside-content>.card-widget.card-info{background-image:url(https://sourcebucket.s3.ladydaily.com/img/aurora.webp);background-repeat:no-repeat;background-attachment:inherit;background-size:100%}#welcome-info{background:linear-gradient(45deg,#b9f4f3,#e3fbf9);border-radius:18px;padding:8px}[data-theme=dark] #welcome-info{background:#212121}.main-hero-waves-area{width:100%;position:absolute;left:0;bottom:-11px;z-index:5}.waves-area .waves-svg{width:100%;height:5rem}.parallax>use{animation:move-forever 25s cubic-bezier(.55,.5,.45,.5) infinite}.parallax>use:nth-child(1){animation-delay:-2s;animation-duration:7s;fill:#f7f9febd}.parallax>use:nth-child(2){animation-delay:-3s;animation-duration:10s;fill:#f7f9fe82}.parallax>use:nth-child(3){animation-delay:-4s;animation-duration:13s;fill:#f7f9fe36}.parallax>use:nth-child(4){animation-delay:-5s;animation-duration:20s;fill:#edd39f}[data-theme=dark] .parallax>use:nth-child(1){animation-delay:-2s;animation-duration:7s;fill:#18171dc8}[data-theme=dark] .parallax>use:nth-child(2){animation-delay:-3s;animation-duration:10s;fill:#18171d80}[data-theme=dark] .parallax>use:nth-child(3){animation-delay:-4s;animation-duration:13s;fill:#18171d3e}[data-theme=dark] .parallax>use:nth-child(4){animation-delay:-5s;animation-duration:20s;fill:#18171d}@keyframes move-forever{0%{transform:translate3d(-90px,0,0)}100%{transform:translate3d(85px,0,0)}}@media (max-width:768px){.waves-area .waves-svg{height:40px;min-height:40px}}#twikoo .el-textarea textarea{min-height:120px!important;background-size:90px}#twikoo .OwO-body{max-width:100%!important}#twikoo .OwO .OwO-body .OwO-items{max-height:250px!important}.OwO .OwO-body .OwO-items-image .OwO-item{max-width:calc(9% - 10px);box-sizing:content-box}.OwO .OwO-body .OwO-items-image .OwO-item[title|=Heybox],.OwO .OwO-body .OwO-items-image .OwO-item[title|=Tieba],.OwO .OwO-body .OwO-items-show .OwO-item[title*=bilibili]{max-width:calc(7% - 10px)!important;box-sizing:content-box}#twikoo .OwO-items li img{width:100%!important}.tk-comment .tk-owo-emotion[alt*=Menhera],.tk-comment .tk-owo-emotion[alt*=Snow],.tk-comment .tk-owo-emotion[alt*=Sweetie],.tk-comment .tk-owo-emotion[alt*=Tsuri],.tk-comment .tk-owo-emotion[alt*=Yurui],.tk-comment .vemoji[alt|=Menhera],.tk-comment .vemoji[alt|=Snow],.tk-comment .vemoji[alt|=Sweetie],.tk-comment .vemoji[alt|=Tsuri],.tk-comment .vemoji[alt|=Yurui]{max-width:120px!important;max-height:120px!important;width:120px;margin:8px 1px;display:block!important}@media screen and (max-width:768px){.tk-comment .tk-owo-emotion[alt*=Menhera],.tk-comment .tk-owo-emotion[alt*=Snow],.tk-comment .tk-owo-emotion[alt*=Sweetie],.tk-comment .tk-owo-emotion[alt*=Tsuri],.tk-comment .tk-owo-emotion[alt*=Yurui],.tk-comment .vemoji[alt|=Menhera],.tk-comment .vemoji[alt|=Snow],.tk-comment .vemoji[alt|=Sweetie],.tk-comment .vemoji[alt|=Tsuri],.tk-comment .vemoji[alt|=Yurui]{max-width:calc(100% - 30px)!important;max-height:calc(100% - 30px)!important}.OwO .OwO-body .OwO-items-image .OwO-item[title*=Menhera],.OwO .OwO-body .OwO-items-image .OwO-item[title*=Snow],.OwO .OwO-body .OwO-items-image .OwO-item[title*=Sweetie],.OwO .OwO-body .OwO-items-image .OwO-item[title*=Tsuri],.OwO .OwO-body .OwO-items-image .OwO-item[title*=Yurui]{max-width:calc(33% - 10px);box-sizing:border-box}.OwO .OwO-body .OwO-items-image .OwO-item[title*=Heybox],.OwO .OwO-body .OwO-items-image .OwO-item[title*=QQ],.OwO .OwO-body .OwO-items-image .OwO-item[title*=Tieba],.OwO .OwO-body .OwO-items-image .OwO-item[title*=bilibili]{max-width:calc(18% - 10px)!important;box-sizing:content-box}}.el-textarea__inner{background-image:url(https://tuchuang.voooe.cn/images/2023/01/02/open.webp)!important}.el-textarea__inner:focus{background-image:url(https://tuchuang.voooe.cn/images/2023/01/02/close.webp)!important}[data-theme=dark] .magnet_link_context{background:#1e1e1e;color:#faebd7}[data-theme=dark] .magnet_link_context:hover{background:#3ecdf1;color:#f2f2f2}:root{--trans-light:rgba(255, 255, 255, 0.70);--trans-dark:rgba(25, 25, 25, 0.70);--border-style:1px solid rgb(169, 169, 169);--backdrop-filter:blur(5px) saturate(150%)}#recent-posts>.recent-post-item{background:var(--trans-light);backdrop-filter:var(--backdrop-filter);border-radius:25px;border:var(--border-style)}#aside-content .card-widget{background:var(--trans-light);backdrop-filter:var(--backdrop-filter);border-radius:18px;border:var(--border-style)}div#archive,div#page,div#post{background:var(--trans-light);backdrop-filter:var(--backdrop-filter);border:var(--border-style);border-radius:20px}#page-header.nav-fixed #nav{background:rgba(255,255,255,.75);backdrop-filter:var(--backdrop-filter)}[data-theme=dark] #page-header.nav-fixed #nav{background:rgba(0,0,0,.7)!important}[data-theme=light] .avatar-img{animation:huxi_light 4s ease-in-out infinite}[data-theme=dark] .avatar-img{animation:huxi_dark 4s ease-in-out infinite}@keyframes huxi_light{0%{box-shadow:0 0 1px 1px #e9f5fa}50%{box-shadow:0 0 5px 5px #e9f5fa}100%{box-shadow:0 0 1px 1px #e9f5fa}}@keyframes huxi_dark{0%{box-shadow:0 0 1px 1px #39c5bb}50%{box-shadow:0 0 5px 5px #39c5bb}100%{box-shadow:0 0 1px 1px #39c5bb}}[data-theme=dark] #aside-content .card-widget,[data-theme=dark] #recent-posts>.recent-post-item,[data-theme=dark] div#archive,[data-theme=dark] div#page,[data-theme=dark] div#post{background:var(--trans-dark)}[data-theme=dark] #footer::before{background:0 0!important}[data-theme=dark] #page-header::before{background:0 0!important}.read-mode #aside-content .card-widget{background:rgba(158,204,171,.5)!important}.read-mode div#post{background:rgba(158,204,171,.5)!important}[data-theme=dark] .read-mode #aside-content .card-widget{background:rgba(25,25,25,.9)!important;color:#fff}[data-theme=dark] .read-mode div#post{background:rgba(25,25,25,.9)!important;color:#fff}.aspect-ratio{position:relative;width:90%;height:auto;padding-bottom:75%;margin:3% auto;text-align:center}.aspect-ratio iframe{position:absolute;width:100%;height:86%;left:0;top:0}h1::before,h2::before,h3::before,h4::before,h5::before,h6::before{-webkit-animation:ccc 4s linear infinite;animation:ccc 4s linear infinite}@-webkit-keyframes ccc{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(-1turn);transform:rotate(-1turn)}}@keyframes ccc{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(-1turn);transform:rotate(-1turn)}}#content-inner.layout h1::before{color:#ef50a8;margin-left:-1.55rem;font-size:1.3rem;margin-top:-.23rem}#content-inner.layout h2::before{color:#fb7061;margin-left:-1.35rem;font-size:1.1rem;margin-top:-.12rem}#content-inner.layout h3::before{color:#ffbf00;margin-left:-1.22rem;font-size:.95rem;margin-top:-.09rem}#content-inner.layout h4::before{color:#a9e000;margin-left:-1.05rem;font-size:.8rem;margin-top:-.09rem}#content-inner.layout h5::before{color:#57c850;margin-left:-.9rem;font-size:.7rem;margin-top:0}#content-inner.layout h6::before{color:#5ec1e0;margin-left:-.9rem;font-size:.66rem;margin-top:0}#content-inner.layout h1:hover,#content-inner.layout h2:hover,#content-inner.layout h3:hover,#content-inner.layout h4:hover,#content-inner.layout h5:hover,#content-inner.layout h6:hover{color:var(--theme-color)}#content-inner.layout h1:hover::before,#content-inner.layout h2:hover::before,#content-inner.layout h3:hover::before,#content-inner.layout h4:hover::before,#content-inner.layout h5:hover::before,#content-inner.layout h6:hover::before{color:var(--theme-color);-webkit-animation:ccc 6s linear infinite;animation:ccc 6s linear infinite}.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before{content:'输入QQ号会自动获取昵称和头像🐧'}.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before{content:'收到回复将会发送到您的邮箱📧'}.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(3):before{content:'可以通过昵称访问您的网站🔗'}.el-input.el-input--small.el-input-group.el-input-group--prepend:focus-within::after,.el-input.el-input--small.el-input-group.el-input-group--prepend:focus-within::before{display:block}.el-input.el-input--small.el-input-group.el-input-group--prepend::before{display:none;position:absolute;top:-60px;white-space:nowrap;border-radius:10px;left:50%;transform:translate(-50%);padding:14px 18px;background:#444;color:#fff}.el-input.el-input--small.el-input-group.el-input-group--prepend::after{display:none;content:'';position:absolute;border:12px solid transparent;border-top-color:#444;left:50%;transform:translate(-50%,-48px)}.layout{max-width:1400px}.aside-content{max-width:318px;min-width:300px}@media screen and (max-width:900px){.aside-content{max-width:none!important;padding:0 5px 0 5px}}#archive,#category,#page,#tag{width:100%}.page:not(.page.home) .aside-content{display:none}#footer{background:0 0!important}#page-header{background:0 0!important}#footer::before{background:0 0!important}#page-header::before{background:0 0!important}[data-theme=dark] #footer::before{background:0 0!important}[data-theme=dark] #page-header::before{background:0 0!important;color:#faebd7}[data-theme=dark] .magnet_link_context:hover{background:#3ecdf1;color:#f2f2f2}
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'YSHST';
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(/font/优设好身体.woff2);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+
+/* 夜间模式菜单栏发光字 */
+[data-theme="dark"] #nav .site-page,
+[data-theme="dark"] #nav .menus_items .menus_item .menus_item_child li a {
+  text-shadow: 0 0 2px var(--theme-color) !important;
+}
+
+/* 一级菜单居中 */
+#nav .menus_items {
+  position: absolute !important;
+  width: fit-content !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+/* 子菜单横向展示 */
+#nav .menus_items .menus_item:hover .menus_item_child {
+  display: flex !important;
+}
+/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -125px;
+}
+
+/*哔哩哔哩视频适配*/
+.aspect-ratio {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding-bottom: 75%;
+  margin: 3% auto;
+  text-align: center;
+}
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 86%;
+  left: 0;
+  top: 0;
+}
+
+svg.social_icon {
+   width: 1.28em;
+   height: 1.28em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+svg.menu_icon {
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+/* 手机端适配 */
+[data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
+  text-shadow: 0 0 2px var(--theme-color) !important;
+}
+
+/* 闪烁变动颜色连续渐变 */
+#site-name,
+#site-title,
+#site-subtitle,
+#post-info,
+.author-info__name,
+.author-info__description {
+  transition: text-shadow 1s linear !important;
+}
+
+/* 个人信息卡片背景图 */
+[data-theme="light"] #aside-content > .card-widget.card-info {
+  background-image: url(https://sourcebucket.s3.ladydaily.com/img/snowflower.webp);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background-image: url(https://sourcebucket.s3.ladydaily.com/img/aurora.webp);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+
+/* 欢迎信息 */
+#welcome-info {
+  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  border-radius: 18px;
+  padding: 8px;
+}
+[data-theme="dark"] #welcome-info {
+  background: #212121;
+}
+
+/* 波浪css */
+.main-hero-waves-area {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: -11px;
+  z-index: 5;
+}
+.waves-area .waves-svg {
+  width: 100%;
+  height: 5rem;
+}
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+  fill: #f7f9febd;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+  fill: #f7f9fe82;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+  fill: #f7f9fe36;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+  fill: #edd39f;
+}
+/* 黑色模式背景 */
+[data-theme="dark"] .parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+  fill: #18171dc8;
+}
+[data-theme="dark"] .parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+  fill: #18171d80;
+}
+[data-theme="dark"] .parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+  fill: #18171d3e;
+}
+[data-theme="dark"] .parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+  fill: #18171d;
+}
+
+@keyframes move-forever {
+  0% {
+    transform: translate3d(-90px, 0, 0);
+  }
+  100% {
+    transform: translate3d(85px, 0, 0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves-area .waves-svg {
+    height: 40px;
+    min-height: 40px;
+  }
+}
+
+
+/* twikoo评论美化 */
+/* 自定义twikoo评论输入框高度 */
+#twikoo .el-textarea textarea {
+  min-height: 120px !important;
+  background-size: 90px;
+}
+
+/* 自定义表情优化 */
+#twikoo .OwO-body {
+  max-width: 100% !important;
+}
+/* 选择某个框 #twikoo .OwO .OwO-body .OwO-items:nth-child(1) */
+#twikoo .OwO .OwO-body .OwO-items {
+  max-height: 250px !important;
+}
+
+.OwO .OwO-body .OwO-items-image .OwO-item {
+  max-width: calc(9% - 10px);
+  box-sizing: content-box;
+}
+.OwO .OwO-body .OwO-items-image .OwO-item[title|="Heybox"],
+.OwO .OwO-body .OwO-items-image .OwO-item[title|="Tieba"],
+.OwO .OwO-body .OwO-items-show .OwO-item[title*="bilibili"] {
+  max-width: calc(7% - 10px) !important;
+  box-sizing: content-box;
+}
+
+#twikoo .OwO-items li img {
+  width: 100% !important;
+}
+
+.tk-comment .vemoji[alt|="Menhera"],
+.tk-comment .tk-owo-emotion[alt*="Menhera"],
+.tk-comment .vemoji[alt|="Snow"],
+.tk-comment .tk-owo-emotion[alt*="Snow"],
+.tk-comment .vemoji[alt|="Sweetie"],
+.tk-comment .tk-owo-emotion[alt*="Sweetie"],
+.tk-comment .vemoji[alt|="Tsuri"],
+.tk-comment .tk-owo-emotion[alt*="Tsuri"],
+.tk-comment .vemoji[alt|="Yurui"],
+.tk-comment .tk-owo-emotion[alt*="Yurui"] {
+  max-width: 120px !important;
+  max-height: 120px !important;
+  width: 120px;
+  margin: 8px 1px;
+  display: block !important;
+}
+
+/* 手机端适配 */
+@media screen and (max-width: 768px) {
+  .tk-comment .vemoji[alt|="Menhera"],
+  .tk-comment .tk-owo-emotion[alt*="Menhera"],
+  .tk-comment .vemoji[alt|="Snow"],
+  .tk-comment .tk-owo-emotion[alt*="Snow"],
+  .tk-comment .vemoji[alt|="Sweetie"],
+  .tk-comment .tk-owo-emotion[alt*="Sweetie"],
+  .tk-comment .vemoji[alt|="Tsuri"],
+  .tk-comment .tk-owo-emotion[alt*="Tsuri"],
+  .tk-comment .vemoji[alt|="Yurui"],
+  .tk-comment .tk-owo-emotion[alt*="Yurui"] {
+    max-width: calc(100% - 30px) !important;
+    max-height: calc(100% - 30px) !important;
+  }
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Menhera"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Snow"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Sweetie"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Tsuri"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Yurui"] {
+    max-width: calc(33% - 10px);
+    box-sizing: border-box;
+  }
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Heybox"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="bilibili"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Tieba"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="QQ"] {
+    max-width: calc(18% - 10px) !important;
+    box-sizing: content-box;
+  }
+}
+
+/* 右下角闭眼 */
+.el-textarea__inner {
+  background-image: url(https://tuchuang.voooe.cn/images/2023/01/02/open.webp) !important;
+}
+.el-textarea__inner:focus {
+  background-image: url(https://tuchuang.voooe.cn/images/2023/01/02/close.webp) !important;
+}
+
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #3ecdf1;
+  color: #f2f2f2;
+}
+
+
+:root {
+  --trans-light: rgba(255, 255, 255, 0.70);
+  --trans-dark: rgba(25, 25, 25, 0.70);
+  --border-style: 1px solid rgb(169, 169, 169);
+  --backdrop-filter: blur(5px) saturate(150%);
+}
+
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item {
+  background: var(--trans-light);
+  backdrop-filter: var(--backdrop-filter);
+  border-radius: 25px;
+  border: var(--border-style);
+}
+
+/* 首页侧栏卡片 */
+#aside-content .card-widget {
+  background: var(--trans-light);
+  backdrop-filter: var(--backdrop-filter);
+  border-radius: 18px;
+  border: var(--border-style);
+}
+
+/* 文章页、归档页、普通页面 */
+div#post,
+div#page,
+div#archive {
+  background: var(--trans-light);
+  backdrop-filter: var(--backdrop-filter);
+  border: var(--border-style);
+  border-radius: 20px;
+}
+
+/* 导航栏 */
+#page-header.nav-fixed #nav {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: var(--backdrop-filter);
+}
+
+[data-theme="dark"] #page-header.nav-fixed #nav {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* 头像呼吸灯 */
+[data-theme="light"] .avatar-img {
+  animation: huxi_light 4s ease-in-out infinite;
+}
+[data-theme="dark"] .avatar-img {
+  animation: huxi_dark 4s ease-in-out infinite;
+}
+@keyframes huxi_light {
+  0% {
+    box-shadow: 0px 0px 1px 1px #e9f5fa;
+  }
+  50% {
+    box-shadow: 0px 0px 5px 5px #e9f5fa;
+  }
+  100% {
+    box-shadow: 0px 0px 1px 1px #e9f5fa;
+  }
+}
+@keyframes huxi_dark {
+  0% {
+    box-shadow: 0px 0px 1px 1px #39c5bb;
+  }
+  50% {
+    box-shadow: 0px 0px 5px 5px #39c5bb;
+  }
+  100% {
+    box-shadow: 0px 0px 1px 1px #39c5bb;
+  }
+}
+
+/* 夜间模式遮罩 */
+[data-theme="dark"] #recent-posts > .recent-post-item,
+[data-theme="dark"] #aside-content .card-widget,
+[data-theme="dark"] div#post,
+[data-theme="dark"] div#archive,
+[data-theme="dark"] div#page {
+  background: var(--trans-dark);
+}
+
+
+/* 夜间模式页脚页头遮罩透明 */
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+}
+
+/* 阅读模式 */
+.read-mode #aside-content .card-widget {
+  background: rgba(158, 204, 171, 0.5) !important;
+}
+.read-mode div#post {
+  background: rgba(158, 204, 171, 0.5) !important;
+}
+
+/* 夜间模式下的阅读模式 */
+[data-theme="dark"] .read-mode #aside-content .card-widget {
+  background: rgba(25, 25, 25, 0.9) !important;
+  color: #ffffff;
+}
+[data-theme="dark"] .read-mode div#post {
+  background: rgba(25, 25, 25, 0.9) !important;
+  color: #ffffff;
+}
+
+
+/*哔哩哔哩视频适配*/
+.aspect-ratio {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding-bottom: 75%;
+  margin: 3% auto;
+  text-align: center;
+}
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 86%;
+  left: 0;
+  top: 0;
+}
+
+/* 文章页H1-H6图标样式效果 */
+/* 控制风车转动速度 4s那里可以自己调节快慢 */
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  -webkit-animation: ccc 4s linear infinite;
+  animation: ccc 4s linear infinite;
+}
+/* 控制风车转动方向 -1turn 为逆时针转动，1turn 为顺时针转动，相同数字部分记得统一修改 */
+@-webkit-keyframes ccc {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(-1turn);
+    transform: rotate(-1turn);
+  }
+}
+@keyframes ccc {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(-1turn);
+    transform: rotate(-1turn);
+  }
+}
+/* 设置风车颜色 */
+#content-inner.layout h1::before {
+  color: #ef50a8;
+  margin-left: -1.55rem;
+  font-size: 1.3rem;
+  margin-top: -0.23rem;
+}
+#content-inner.layout h2::before {
+  color: #fb7061;
+  margin-left: -1.35rem;
+  font-size: 1.1rem;
+  margin-top: -0.12rem;
+}
+#content-inner.layout h3::before {
+  color: #ffbf00;
+  margin-left: -1.22rem;
+  font-size: 0.95rem;
+  margin-top: -0.09rem;
+}
+#content-inner.layout h4::before {
+  color: #a9e000;
+  margin-left: -1.05rem;
+  font-size: 0.8rem;
+  margin-top: -0.09rem;
+}
+#content-inner.layout h5::before {
+  color: #57c850;
+  margin-left: -0.9rem;
+  font-size: 0.7rem;
+  margin-top: 0rem;
+}
+#content-inner.layout h6::before {
+  color: #5ec1e0;
+  margin-left: -0.9rem;
+  font-size: 0.66rem;
+  margin-top: 0rem;
+}
+/* s设置风车hover动效 6s那里可以自己调节快慢*/
+#content-inner.layout h1:hover,
+#content-inner.layout h2:hover,
+#content-inner.layout h3:hover,
+#content-inner.layout h4:hover,
+#content-inner.layout h5:hover,
+#content-inner.layout h6:hover {
+  color: var(--theme-color);
+}
+#content-inner.layout h1:hover::before,
+#content-inner.layout h2:hover::before,
+#content-inner.layout h3:hover::before,
+#content-inner.layout h4:hover::before,
+#content-inner.layout h5:hover::before,
+#content-inner.layout h6:hover::before {
+  color: var(--theme-color);
+  -webkit-animation: ccc 6s linear infinite;
+  animation: ccc 6s linear infinite;
+}
+
+/* 设置文字内容 :nth-child(1)的作用是选择第几个 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
+    content: '输入QQ号会自动获取昵称和头像🐧';
+}
+
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before {
+    content: '收到回复将会发送到您的邮箱📧';
+}
+
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(3):before {
+    content: '可以通过昵称访问您的网站🔗';
+}
+
+/* 当用户点击输入框时显示 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend:focus-within::before,
+.el-input.el-input--small.el-input-group.el-input-group--prepend:focus-within::after {
+    display: block;
+}
+
+/* 主内容区 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend::before {
+    /* 先隐藏起来 */
+    display: none;
+    /* 绝对定位 */
+    position: absolute;
+    /* 向上移动60像素 */
+    top: -60px;
+    /* 文字强制不换行，防止left:50%导致的文字换行 */
+    white-space: nowrap;
+    /* 圆角 */
+    border-radius: 10px;
+    /* 距离左边50% */
+    left: 50%;
+    /* 然后再向左边挪动自身的一半，即可实现居中 */
+    transform: translate(-50%);
+    /* 填充 */
+    padding: 14px 18px;
+    background: #444;
+    color: #fff;
+}
+
+/* 小角标 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend::after {
+    display: none;
+    content: '';
+    position: absolute;
+    /* 内容大小（宽高）为0且边框大小不为0的情况下，每一条边（4个边）都是一个三角形，组成一个正方形。
+    我们先将所有边框透明，再给其中的一条边添加颜色就可以实现小三角图标 */
+    border: 12px solid transparent;
+    border-top-color: #444;
+    left: 50%;
+    transform: translate(-50%, -48px);
+}
+
+
+/* 全局宽度 */
+.layout {
+  max-width: 1400px;
+}
+
+/* 侧边卡片栏宽度 */
+.aside-content {
+  max-width: 318px;
+  min-width: 300px;
+}
+
+/* 平板尺寸自适应(不启用侧边栏宽度限制) */
+@media screen and (max-width: 900px) {
+  .aside-content {
+    max-width: none !important;
+    padding: 0 5px 0 5px;
+  }
+}
+
+/* 除了首页以外其他页面隐藏卡片，并采用宽屏显示 */
+#archive,
+#page,
+#category,
+#tag {
+  width: 100%;
+}
+.page:not(.page.home) .aside-content {
+  display: none;
+}
+
+/* 页脚与头图透明 */
+#footer {
+  background: transparent !important;
+}
+#page-header {
+  background: transparent !important;
+}
+
+/* 白天模式遮罩透明 */
+#footer::before {
+  background: transparent !important;
+}
+#page-header::before {
+  background: transparent !important;
+}
+
+/* 夜间模式遮罩透明 */
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+
+
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #3ecdf1;
+  color: #f2f2f2;
+}
+
+# hexo-butterfly-swiper
+# see https://akilar.top/posts/8e1264d1/
+swiper:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  timemode: date #date/updated
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 0
+  default_descr: 再怎么看我也不知道怎么描述它的啦！
+  swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
+  swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖
+  custom_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css # 适配主题样式补丁
+  custom_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper_init.js # swiper初始化方法
+
