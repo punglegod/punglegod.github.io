@@ -35,7 +35,7 @@
 
 
 
-svg.icon {
+svg.social_icon {
    width: 1.28em;
    height: 1.28em;
    /* width和height定义图标的默认宽度和高度*/
@@ -43,7 +43,13 @@ svg.icon {
    fill: currentColor;
    overflow: hidden;
 }
-
+svg.menu_icon {
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
 
 /* 手机端适配 */
 [data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
