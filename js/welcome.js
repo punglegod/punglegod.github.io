@@ -197,7 +197,7 @@ $.ajax({
         你距离Danvi约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
-        本网站的Twikoo评论系统使用<a href="https://cravatar.cn">Cravatar</a>头像系统，请自行绑定邮箱配置
+        本网站使用teikoo评论系统，请正确填写邮箱，以及时收到回复
         `;
         }
         showWelcome()
