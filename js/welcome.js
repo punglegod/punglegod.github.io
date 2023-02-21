@@ -197,7 +197,7 @@ $.ajax({
         你距离Danvi约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
-        本网站使用teikoo评论系统，请正确填写邮箱，以及时收到回复
+        本网站使用twikoo评论系统，请正确填写邮箱，以及时收到回复
         `;
         }
         showWelcome()
