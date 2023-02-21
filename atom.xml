@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Danvi&#39;s Blog</title>
-  <icon>https://blog.pungle.cn/icon.png</icon>
+  <icon>https://www.pungle.cn/icon.png</icon>
   <subtitle>Danvi的个人博客</subtitle>
-  <link href="https://blog.pungle.cn/atom.xml" rel="self"/>
+  <link href="https://www.pungle.cn/atom.xml" rel="self"/>
   
-  <link href="https://blog.pungle.cn/"/>
+  <link href="https://www.pungle.cn/"/>
   <updated>2023-02-20T15:02:46.867Z</updated>
-  <id>https://blog.pungle.cn/</id>
+  <id>https://www.pungle.cn/</id>
   
   <author>
     <name>Danvi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://blog.pungle.cn/post/0.html"/>
-    <id>https://blog.pungle.cn/post/0.html</id>
+    <link href="https://www.pungle.cn/post/0.html"/>
+    <id>https://www.pungle.cn/post/0.html</id>
     <published>2023-02-20T15:02:46.867Z</published>
     <updated>2023-02-20T15:02:46.867Z</updated>
     
@@ -29,7 +29,7 @@
         
         
     <summary type="html">&lt;div style=&quot;width: 90%;margin: 0 auto&quot;&gt;
-    &lt;canvas id=&quot;chart1286&quot; style=&quot;height: 300px&quot;&gt;&lt;/canvas&gt;
+    &lt;canvas id=&quot;chart9488&quot; style=&quot;height: 300px&quot;&gt;&lt;/canvas&gt;
 &lt;/div&gt;
 &lt;script</summary>
         
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.pungle.cn/post/4a17b156.html"/>
-    <id>https://blog.pungle.cn/post/4a17b156.html</id>
+    <link href="https://www.pungle.cn/post/4a17b156.html"/>
+    <id>https://www.pungle.cn/post/4a17b156.html</id>
     <published>2023-02-20T15:02:46.866Z</published>
     <updated>2023-02-20T15:02:46.866Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>工业工程的七大手法与八大浪费</title>
-    <link href="https://blog.pungle.cn/post/c70b4935.html"/>
-    <id>https://blog.pungle.cn/post/c70b4935.html</id>
+    <link href="https://www.pungle.cn/post/c70b4935.html"/>
+    <id>https://www.pungle.cn/post/c70b4935.html</id>
     <published>2023-02-14T16:00:00.000Z</published>
     <updated>2023-02-21T02:31:21.982Z</updated>
     
@@ -79,17 +79,17 @@
     
     
     
-    <category term="工业工程" scheme="https://blog.pungle.cn/categories/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    <category term="工业工程" scheme="https://www.pungle.cn/categories/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
     
     
-    <category term="工业工程" scheme="https://blog.pungle.cn/tags/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    <category term="工业工程" scheme="https://www.pungle.cn/tags/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>现代工业工程的布局规划-Layout</title>
-    <link href="https://blog.pungle.cn/post/6a18d851.html"/>
-    <id>https://blog.pungle.cn/post/6a18d851.html</id>
+    <link href="https://www.pungle.cn/post/6a18d851.html"/>
+    <id>https://www.pungle.cn/post/6a18d851.html</id>
     <published>2023-02-09T16:00:00.000Z</published>
     <updated>2023-02-21T02:31:21.988Z</updated>
     
@@ -104,17 +104,17 @@
     
     
     
-    <category term="工业工程" scheme="https://blog.pungle.cn/categories/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    <category term="工业工程" scheme="https://www.pungle.cn/categories/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
     
     
-    <category term="工业工程" scheme="https://blog.pungle.cn/tags/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    <category term="工业工程" scheme="https://www.pungle.cn/tags/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Butterfly外置用法记录</title>
-    <link href="https://blog.pungle.cn/post/ee99f7e7.html"/>
-    <id>https://blog.pungle.cn/post/ee99f7e7.html</id>
+    <link href="https://www.pungle.cn/post/ee99f7e7.html"/>
+    <id>https://www.pungle.cn/post/ee99f7e7.html</id>
     <published>2023-01-11T16:00:00.000Z</published>
     <updated>2023-02-21T02:31:21.976Z</updated>
     
@@ -129,12 +129,12 @@
     
     
     
-    <category term="Butterfly" scheme="https://blog.pungle.cn/categories/Butterfly/"/>
+    <category term="Butterfly" scheme="https://www.pungle.cn/categories/Butterfly/"/>
     
     
-    <category term="hexo" scheme="https://blog.pungle.cn/tags/hexo/"/>
+    <category term="hexo" scheme="https://www.pungle.cn/tags/hexo/"/>
     
-    <category term="Butterfly" scheme="https://blog.pungle.cn/tags/Butterfly/"/>
+    <category term="Butterfly" scheme="https://www.pungle.cn/tags/Butterfly/"/>
     
   </entry>
   
