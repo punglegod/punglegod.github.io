@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Danvi&#39;s Blog</title>
+  <icon>https://blog.pungle.cn/icon.png</icon>
+  <subtitle>Danvi的个人博客</subtitle>
+  <link href="https://blog.pungle.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.pungle.cn/"/>
+  <updated>2023-02-20T15:02:46.867Z</updated>
+  <id>https://blog.pungle.cn/</id>
+  
+  <author>
+    <name>Danvi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://blog.pungle.cn/post/0.html"/>
+    <id>https://blog.pungle.cn/post/0.html</id>
+    <published>2023-02-20T15:02:46.867Z</published>
+    <updated>2023-02-20T15:02:46.867Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div style=&quot;width: 90%;margin: 0 auto&quot;&gt;
+    &lt;canvas id=&quot;chart1314&quot; style=&quot;height: 300px&quot;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.pungle.cn/post/4a17b156.html"/>
+    <id>https://blog.pungle.cn/post/4a17b156.html</id>
+    <published>2023-02-20T15:02:46.866Z</published>
+    <updated>2023-02-20T15:02:46.866Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>工业工程的七大手法与八大浪费</title>
+    <link href="https://blog.pungle.cn/post/c70b4935.html"/>
+    <id>https://blog.pungle.cn/post/c70b4935.html</id>
+    <published>2023-02-14T16:00:00.000Z</published>
+    <updated>2023-02-21T02:31:21.982Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;现代IE的七大手法与八大浪费简述&quot;&gt;&lt;a href=&quot;#现代IE的七大手法与八大浪费简述&quot; class=&quot;headerlink&quot; title=&quot;现代IE的七大手法与八大浪费简述&quot;&gt;&lt;/a&gt;现代IE的七大手法与八大浪费简述&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="工业工程" scheme="https://blog.pungle.cn/categories/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="工业工程" scheme="https://blog.pungle.cn/tags/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>现代工业工程的布局规划-Layout</title>
+    <link href="https://blog.pungle.cn/post/6a18d851.html"/>
+    <id>https://blog.pungle.cn/post/6a18d851.html</id>
+    <published>2023-02-09T16:00:00.000Z</published>
+    <updated>2023-02-21T02:31:21.988Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。&quot;&gt;&lt;a href=&quot;#从岗位需求来看，现代IE应当必备的一个知识模块—布局规划Layout。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工业工程" scheme="https://blog.pungle.cn/categories/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="工业工程" scheme="https://blog.pungle.cn/tags/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Butterfly外置用法记录</title>
+    <link href="https://blog.pungle.cn/post/ee99f7e7.html"/>
+    <id>https://blog.pungle.cn/post/ee99f7e7.html</id>
+    <published>2023-01-11T16:00:00.000Z</published>
+    <updated>2023-02-21T02:31:21.976Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Butterfly的外置用法备忘记录&quot;&gt;&lt;a href=&quot;#Butterfly的外置用法备忘记录&quot; class=&quot;headerlink&quot; title=&quot;Butterfly的外置用法备忘记录&quot;&gt;&lt;/a&gt;Butterfly的外置用法备忘记录&lt;/h1&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Butterfly" scheme="https://blog.pungle.cn/categories/Butterfly/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.pungle.cn/tags/hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.pungle.cn/tags/Butterfly/"/>
+    
+  </entry>
+  
+</feed>
