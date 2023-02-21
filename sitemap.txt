@@ -3,8 +3,8 @@ https://blog.pungle.cn/post/c70b4935.html
 https://blog.pungle.cn/post/ee99f7e7.html
 https://blog.pungle.cn/tags/index.html
 https://blog.pungle.cn/link/index.html
-https://blog.pungle.cn/comments/index.html
 https://blog.pungle.cn/charts/index.html
+https://blog.pungle.cn/comments/index.html
 https://blog.pungle.cn/categories/index.html
 https://blog.pungle.cn/about/index.html
 https://blog.pungle.cn/post/0.html
