@@ -1,0 +1,1 @@
+let TT=null;function debounce(e,t){null!==TT&&clearTimeout(TT),TT=setTimeout(e,t)}document.addEventListener("copy",(function(){debounce((function(){new Vue({data:function(){this.$notify({title:"哎嘿！复制成功🍬",message:"若要转载最好保留原文链接哦，给你一个大大的赞！",position:"top-left",offset:50,showClose:!0,type:"success",duration:5e3})}})}),300)}));
