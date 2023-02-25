@@ -8,7 +8,7 @@
       <link href="/post/0.html"/>
       <url>/post/0.html</url>
       
-        <content type="html"><![CDATA[<div style="width: 90%;margin: 0 auto">    <canvas id="chart8779" style="height: 300px"></canvas></div><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script><script type="text/javascript">    var ctx = document.getElementById('chart8779').getContext('2d');    var options =     {    type: 'line',    data: {    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],    datasets: [{        label: 'My First dataset',        backgroundColor: 'rgb(255, 99, 132)',        borderColor: 'rgb(255, 99, 132)',        data: [0, 10, 5, 2, 20, 30, 45]        }]    },    options: {        responsive: true,        title: {        display: true,        text: 'Chart.js Line Chart'        }    }};    new Chart(ctx, options);</script>]]></content>
+        <content type="html"><![CDATA[<div style="width: 90%;margin: 0 auto">    <canvas id="chart6733" style="height: 300px"></canvas></div><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script><script type="text/javascript">    var ctx = document.getElementById('chart6733').getContext('2d');    var options =     {    type: 'line',    data: {    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],    datasets: [{        label: 'My First dataset',        backgroundColor: 'rgb(255, 99, 132)',        borderColor: 'rgb(255, 99, 132)',        data: [0, 10, 5, 2, 20, 30, 45]        }]    },    options: {        responsive: true,        title: {        display: true,        text: 'Chart.js Line Chart'        }    }};    new Chart(ctx, options);</script>]]></content>
       
       
       
