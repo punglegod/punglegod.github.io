@@ -3,7 +3,7 @@ $.ajax({
     type: 'get',
     url: 'https://apis.map.qq.com/ws/location/v1/ip',
     data: {
-        key: 'T3EBZ-TJ7LI-YRBG2-5ZLUR-KD3OS-U6BJO',
+        key: 'K2YBZ-VU4EF-LD4J5-JVWFG-KTRLO-FTBLS',
         output: 'jsonp',
     },
     dataType: 'jsonp',
@@ -221,5 +221,3 @@ function showWelcome() {
     }
 }
 window.onload = showWelcome;
-// 如果使用了pjax在加上下面这行代码
-#document.addEventListener('pjax:complete', showWelcome);
